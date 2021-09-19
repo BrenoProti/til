@@ -9,7 +9,7 @@ Let's expand our connections? Find me on linkedin:
 ## About
 
 Inspired by
-[thoughtbot/til](https://github.com/thoughtbot/til).
+[jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Other TIL Collections
 
